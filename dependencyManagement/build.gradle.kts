@@ -48,6 +48,7 @@ dependencies {
     api("com.google.code.findbugs:jsr305:3.0.2")
     api("com.uber.nullaway:nullaway:0.14.1")
     api("org.assertj:assertj-core:3.27.7")
+    api("io.spiffe:java-spiffe-provider:0.8.12")
     api("org.awaitility:awaitility:4.3.0")
     api("org.bouncycastle:bcpkix-jdk15on:1.70")
     api("org.bouncycastle:bcpkix-jdk18on:1.86")
